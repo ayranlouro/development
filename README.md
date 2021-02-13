@@ -15,12 +15,13 @@
 </ul>
 
 <ul>
-<li>Os dados a seguir é de cunho estudantil e foi gerado apartir do módulo fake do Laravel.
+<li>Os dados a seguir é de cunho estudanti, e foram gerado apartir do módulo fake do Laravel.
 <ul>
 </ul>
 </li>
 </ul>
-    
+
+<ul>
 <li>Utilizado tipo de cartão de crédito como categoria de usuários:
 <ul>
     <li>Resultado trazido após requisição AJAX.</li>
