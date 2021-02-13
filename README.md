@@ -17,9 +17,9 @@
 </ul>
 
 <ul>
-<li>Conhecer um pouco de suas habilidades em:
+<li>Utilizado tipo de cartão de crédito como categoria de usuários:
 <ul>
-    <li>PHP, Mysql, HTML, CSS e JavaScript;</li>
+    <li>Resultado trazido após requisição AJAX.</li>
 </ul>
 </li>
 
