@@ -15,7 +15,7 @@
 </ul>
 
 <ul>
-<li>Os dados a seguir é de cunho estudanti, e foram gerado apartir do módulo fake do Laravel.
+<li>Os dados a seguir é de cunho estudantil, e foram gerados apartir do módulo fake do Laravel.
 <ul>
 </ul>
 </li>
