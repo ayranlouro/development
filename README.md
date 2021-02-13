@@ -16,6 +16,7 @@
 
 <ul>
 <li>Os dados a seguir é de cunho estudantil e foi gerado apartir do módulo fake do Laravel.
+    
 <li>Utilizado tipo de cartão de crédito como categoria de usuários:
 <ul>
     <li>Resultado trazido após requisição AJAX.</li>
