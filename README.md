@@ -16,4 +16,11 @@
 </li>
 </ul>
 
+<ul>
+<li>Conhecer um pouco de suas habilidades em:
+<ul>
+    <li>PHP, Mysql, HTML, CSS e JavaScript;</li>
+</ul>
+</li>
+
 ![image](https://user-images.githubusercontent.com/28974373/107863152-8f80ca80-6e30-11eb-9ac5-2ebe4e798519.png)
